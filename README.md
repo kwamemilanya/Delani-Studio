@@ -18,6 +18,5 @@
 * JavaScript
 ## Support and contact details
 Contact at kwamemi@gmail.com
-### License
-**
+### MIT License
 Copyright (c) 2021 **Kwame Milanya**
