@@ -11,7 +11,7 @@
 * easy-to-understand
 * format
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+No known bugs.
 ## Technologies Used
 * HTML
 * CSS
