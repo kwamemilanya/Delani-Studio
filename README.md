@@ -1,15 +1,18 @@
 
 # DELANI STUDIO
-#### {Brief description of application}, {Date of current version}
+#### This is a webpage about the Delani Studio, 2021
 #### By **Kwame Milanya**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+Delani Studio is a webpage created by Kwame Milanya.
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
+Follow these steps:
+* Open Terminal {Ctrl+Alt+T}
+
+* git clone 
+
+* cd Pizzeria-buchreti
+
+* code . or atom . depending on the text editor of your choice.
 ## Known Bugs
 No known bugs.
 ## Technologies Used
