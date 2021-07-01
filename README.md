@@ -8,7 +8,7 @@ Delani Studio is a webpage created by Kwame Milanya.
 Follow these steps:
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone 
+* git clone https://github.com/kwamemilanya/Delani-Studio.git
 
 * cd Pizzeria-buchreti
 
